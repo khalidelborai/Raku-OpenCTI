@@ -1,0 +1,19 @@
+{
+  "name": "OpenCTI",
+  "description": "OpenCTI GraphQL API.",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "Khalid Elborai"
+  ],
+  "auth": "github:khalidelborai",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "OpenCTI": "lib/OpenCTI.rakumod"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "source-url": "https://github.com/khalidelborai/Raku-OpenCTI.git"
+}
